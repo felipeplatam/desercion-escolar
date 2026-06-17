@@ -1,6 +1,7 @@
 """
 =============================================================
-Análsiis y visualización de datos
+ Análsiis y visualización de datos
+ Felipe Plata Moreno
  Mayo 2026
  Tema: Deserción Escolar en Colombia (2015–2023)
  Herramienta: Streamlit + Altair
