@@ -125,7 +125,7 @@ with st.sidebar:
         "- [DANE – EDUC 2023](https://www.dane.gov.co/files/operaciones/EDUC/bol-EDUC-2023.pdf)"
     )
     st.markdown("---")
-    st.caption("Visualización Para La Analítica De Datos\nUNAD – Código 203238429 – 2026")
+    st.caption("Análisis y visualización de datos | Felipe Plata Moreno | Mayo 2026")
 
 
 # ── 🏠 INICIO ────────────────────────────────────────────────
