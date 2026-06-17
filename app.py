@@ -1,7 +1,7 @@
 """
 =============================================================
- PROYECTO FASE 4 – Visualización Para La Analítica De Datos
- UNAD – Curso 203238429 – 2026
+Análsiis y visualización de datos
+ Mayo 2026
  Tema: Deserción Escolar en Colombia (2015–2023)
  Herramienta: Streamlit + Altair
 =============================================================
@@ -452,4 +452,4 @@ elif seccion == "5️⃣ Conclusión":
 - Vora, S. (2019). *The power of data storytelling*. SAGE Publications.
     """)
     st.markdown("---")
-    st.caption("Proyecto colaborativo – Fase 4 | Visualización Para La Analítica De Datos (Código 203238429) | UNAD – 2026")
+    st.caption("Felipe Plata Moreno | Análisis y visualización de datos | Mayo 2026")
